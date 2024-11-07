@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
+    <h1 align="center">Hola, soy Frank Aldape 👋</h1>
+</div>
 
-<!--
-**frankaldape/frankaldape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
 
-Here are some ideas to get you started:
+- Soy desarrollador Frontend con experiencia en **React**, **React Native**, **Kotlin** y **Android**. Me apasiona crear interfaces de usuario funcionales y atractivas.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Redes
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Frank%20Aldape-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/frank-aldape/)
+<br>
+
+<!--## Proyectos (En proceso)>
+
+<table>
+    <tr>
+        <td width="50%">
+            <h3 align="center"></h3>
+            <div align="center"></div>
+        </td>
+        <td width="50%">
+            <br>
+            <h3 align="center"></h3>
+            <div align="center"></div>
+        </td>
+    </tr>
+</table>                                                 
+</div>
+<br>
+
+<table>
+    <tr>
+        <td width="50%">
+            <h3 align="center"></h3>
+            <div align="center"></div>
+        </td>
+        <td width="50%">
+            <br>
+            <h3 align="center"></h3>
+            <div align="center"></div>
+        </td>
+    </tr>
+</table>
+<br-->
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+    <a href="https://github.com/frankaldape">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=frankaldape&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=frankaldape&layout=compact&langs_count=8&theme=algolia">
+    </a>
+</p>
