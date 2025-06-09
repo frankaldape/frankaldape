@@ -40,7 +40,7 @@
 - **Fullstack Developer Freelance** (2021 - 2022)
 - **Java Developer** – AlphaCredit (2020 - 2021)
 
-> Puedes ver más detalles en mi [CV completo](#) o contactarme vía LinkedIn 👇
+> Puedes ver más detalles vía LinkedIn 👇
 
 ---
 
