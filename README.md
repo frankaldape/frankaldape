@@ -53,7 +53,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frankaldape&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=frankaldape&theme=algolia&margin-w=15&margin-h=15&no-bg=true" />
 </p>
 
 ---
