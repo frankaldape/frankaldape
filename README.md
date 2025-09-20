@@ -1,15 +1,15 @@
 <div align="center">
   <h1>¡Hola, soy Frank Aldape! 👋</h1>
-  <h3>Desarrollador Frontend Senior especializado en React y tecnologías móviles</h3>
+  <h3>Desarrollador Frontend Senior especializado en React, tecnologías móviles y backends escalables</h3>
 </div>
 
 ---
 
 ## 🚀 Sobre mí
 
-👨‍💻 Soy un Desarrollador de Software con más de **5 años de experiencia** creando soluciones web y móviles escalables, eficientes y centradas en la experiencia del usuario.
+👨‍💻 Soy un Desarrollador de Software con más de **5 años de experiencia** creando soluciones **web y móviles** escalables, eficientes y centradas en la experiencia del usuario.
 
-📱 Especializado en **ReactJS**, **React Native**, **TypeScript** y **Node.js**, también he trabajado con **Flutter**, **Kotlin**, **Java** y herramientas modernas como **GraphQL**, **TailwindCSS** y **AWS Lambda**.
+📱 Especializado en **ReactJS**, **React Native**, **TypeScript** y **Node.js**, también he trabajado con **Flutter**, **Python**, **Kotlin** y **Java**, además de herramientas modernas como **GraphQL**, **TailwindCSS** y **AWS Lambda**.
 
 🎯 Me apasiona construir interfaces funcionales, liderar iniciativas técnicas, mentorizar equipos y entregar productos con alto estándar de calidad y rendimiento.
 
@@ -22,10 +22,11 @@
 - HTML5, CSS3, TailwindCSS
 
 **Mobile**
-- React Native, Flutter, Kotlin, Dart
+- React Native, Flutter (Dart), Kotlin
 
 **Backend & APIs**
 - Node.js, TypeScript, Express.js
+- Python (FastAPI, Django básico)
 - RESTful APIs, GraphQL, AWS Lambda
 
 **DevTools**
@@ -35,12 +36,19 @@
 
 ## 💼 Experiencia reciente
 
-- **Senior Frontend Developer** – Apoyo Soluciones Productivas (2024 - Actual)
-- **Software Developer** – Millicom (2022 - 2024)
-- **Fullstack Developer Freelance** (2021 - 2022)
-- **Java Developer** – AlphaCredit (2020 - 2021)
+- **Senior Frontend Developer** – Apoyo Soluciones Productivas (2024 - Actual)  
+  Desarrollo de aplicaciones web/móviles con React y React Native. Mejora de rendimiento y optimización de interfaces.
 
-> Puedes ver más detalles vía LinkedIn 👇
+- **Software Developer** – Millicom (2022 - 2024)  
+  Desarrollo de apps móviles con **Flutter (Dart)** y servicios de backend en **Python**, incluyendo integración de APIs y optimización de procesos internos.
+
+- **Fullstack Developer Freelance** (2021 - 2022)  
+  Creación de dashboards, sistemas de pago y soluciones móviles para clientes independientes.
+
+- **Java Developer** – AlphaCredit (2020 - 2021)  
+  Desarrollo de módulos financieros y mantenimiento de sistemas legacy.
+
+> Puedes ver más detalles vía [LinkedIn](https://www.linkedin.com/in/frank-aldape/).
 
 ---
 
@@ -60,9 +68,9 @@
 
 ## ⚙️ Próximos pasos
 
-- [ ] Documentar proyectos recientes
-- [ ] Publicar artículos técnicos
-- [ ] Explorar nuevas integraciones en Flutter y React Native
+- [ ] Documentar proyectos recientes en React Native y Flutter  
+- [ ] Publicar artículos técnicos sobre optimización frontend y arquitectura móvil  
+- [ ] Explorar nuevas integraciones con Python para servicios backend  
 
 ---
 
